@@ -1,5 +1,5 @@
 # timer
-An NLP time parser for Chinese
+An NLP time parser for multiple language
 
 ## 背景介绍
 
