@@ -1,2 +1,2 @@
-# time_parser
-NLP time parser
+# timer
+An NLP time parser for Chinese
