@@ -13,7 +13,7 @@ An NLP time parser for multiple language
 - 昨天
 - 今天
 - 明天
-- 天
+- 后天
 - 大后天
 - 大大...后天
 - 端午节等各种节日（洋节日、传统节日）
