@@ -1,0 +1,26 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "An NLP time parser for Chinese",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leinue/timer.git"
+  },
+  "keywords": [
+    "timer",
+    "nlp"
+  ],
+  "author": "xieyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leinue/timer/issues"
+  },
+  "homepage": "https://github.com/leinue/timer#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
